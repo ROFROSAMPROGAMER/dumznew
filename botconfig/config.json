@@ -1,0 +1,45 @@
+{
+  "token": "ODc4Njg4Mzg0Mjk2NTU4NjUy.YSE0VA.MdKtkMzVYSS97nPkG_NirGKl4F4",
+  "prefix": "v!",
+
+
+  "ownerIDS": ["442355791412854784"],
+
+
+  "status": {
+    "text": "| Vcodez.xyz | v!help | v!play",
+    "type": "PLAYING",
+    "url": "https://twitch.tv/milratoDiscordBot"
+  },
+
+
+
+  "clientsettings": {
+    "nodes": [
+      {
+         "host": "lava.link",
+         "port": 80,
+         "password": "youshallnotpass"
+      }
+     ]
+  },
+
+  "spotify": {
+    "clientSecret": "a38967955c91488a982fa41be8e22ad7",
+    "clientID": "c2eff19570944151966ad9202173d0a9"
+  },
+
+  "settings": {
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+
+  "lyricssettings": {
+    "lyrics_finder": true,      
+    "ksoft_api": {
+      "use_this_instead": false,
+      "api_key": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ"
+    }
+  }
+
+}
